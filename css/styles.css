@@ -127,6 +127,11 @@ h3{
     position: static;
     transform: rotate(0);
   }
+  #title .container-fluid
+  {
+    padding: 3% 5% 15%;
+    text-align: center;
+  }
 }
 @media (min-width:1650px ){
   #title .container-fluid{
